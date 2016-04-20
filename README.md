@@ -11,7 +11,7 @@ void checkpoint:: checkpoint (Display var){
 
 	if ((numSteps%25) == 0){
 
-		//call save function
+		Save();	//call save function
 
 	}
 
