@@ -1,6 +1,5 @@
-#include "checkpoint.h"
+#include "dork.h"
 #include "game.h"
-#include "game.cpp"
 
 //may need to update includes with load/save and play
 
